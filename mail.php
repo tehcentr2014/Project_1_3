@@ -19,7 +19,7 @@ $message = "$mess \n  $name \n $email";
   
   
 mail('tehcentr1920@gmail.com', $subject, $message);  
-mail('tehcentr1920@gmail.com', $subject, $message);  
+mail('tehcentr1720@gmail.com', $subject, $message);  
   
   
   
