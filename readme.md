@@ -53,18 +53,18 @@ The main files and directories in the project are organized as follows:
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org)
+  - No errors were returned when passing through the official [W3C validator]([https://validator.w3.org](https://ui.dev/amiresponsive?url=https://tehcentr2014.github.io/Project_1_3/)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator)
 
 ## Deployment
 
 The App was deployed to GitHub pages. 
-The live link can be found here: https://github.com/tehcentr2014/Project_1
+The live link can be found here: [https://tehcentr2014.github.io/Project_1_3]
 
 ## Usage
 
-1. Copy App site link: https://tehcentr2014.github.io/Project_1/
+1. Copy App site link: https://tehcentr2014.github.io/Project_1_3
 2. Open App site link in a web browser.
 
 ## Customization
