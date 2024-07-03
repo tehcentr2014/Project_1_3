@@ -23,7 +23,6 @@ This is the portfolio website, showcasing skills, education, experience, and pro
 
 - HTML5
 - CSS3
-- Bootstrap
 - Owl Carousel
 - Font Awesome
 - Google Fonts
